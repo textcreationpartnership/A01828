@@ -36,21 +36,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The legacye or embassate of the great emperour of Inde prester Iohn, vnto Emanuell kynge of Portynga
+
+1. Iohn̄ More to the cryſten ſten reader.
+
 #####Body#####
 
-1. The confeſſyon of the fayth, ceremonyes, and manner of theyr relygyon, of the empyre of preſter Iohn̄.
+1. Damyane Gooes a Portyngale, vnto the ryght reuerent father in god lord Iohn̄ ye great Goth, archbyſſhop of wpſalen̄ inhabytyng the countrey of Swetia ſendes gretynge.
 
-1. Of theyr patryarche, and of his offyce.
+    _ The confeſſyon of the fayth, ceremonyes, and manner of theyr relygyon, of the empyre of preſter Iohn̄.
 
-1. Of the realme and eſtate of themperour preſter Iohn̄.
+    _ Of theyr patryarche, and of his offyce.
 
-1. Of the order of the ſame empyre, and maner of the courte.
+    _ Of the realme and eſtate of themperour preſter Iohn̄.
+
+    _ Of the order of the ſame empyre, and maner of the courte.
 HEre haue you now ryght reuerēt father ye thynges I promyſed your holynes (at my beynge wyth you) o
-1. Of the people of Pilapes.
+    _ Of the people of Pilapes.
 
 #####Back#####
-The legacye or embassate of the great emperour of Inde prester Iohn, vnto Emanuell kynge of Portynga
+¶Prynted by W. Raſtell in Fleteſtrete in ſaynte Brydys chyrch yarde. 1533 Cum priuilegio.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
